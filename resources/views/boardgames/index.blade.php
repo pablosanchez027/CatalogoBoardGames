@@ -11,11 +11,9 @@
     <table>
         <thead>
             <tr>
-                <th>
-                    <th>Nombre</th>
-                    <th>Precio</th>
-                    <th>Acciones</th>
-                </th>
+                <th>Nombre</th>
+                <th>Precio</th>
+                <th>Acciones</th>
             </tr>
         </thead>
         <tbody>
